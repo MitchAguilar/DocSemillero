@@ -6,11 +6,8 @@
 ![image](http://giecom.udla.edu.co/maraton/assets/Imgs/4.jpg)
 
 ### **Tema** N° 1
-
-Para el tema numero 1 planteamos la solución del ejercicio **11942**:
-[Analisis Del Ejercicio](data/11942.md)
-
-### **Tema** N° 2
+  En éste enlace se encuantra el primer archivo del semillero de programación
+  [Da clic aquí](1.pdf)
 
 
 
